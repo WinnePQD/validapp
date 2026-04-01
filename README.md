@@ -31,22 +31,6 @@ O ValidAPP foi criado para facilitar a organização de produtos, ajudando usuá
 
 ---
 
-## 📥 Download
-
-Você pode baixar o APK diretamente pelo site:
-
-👉 (coloque aqui o link do seu GitHub Pages)
-
----
-
-## 🔐 Política de Privacidade
-
-Acesse a política de privacidade do aplicativo:
-
-👉 (coloque aqui o link da sua página privacidade.html)
-
----
-
 ## 👨‍💻 Desenvolvedor
 
 Desenvolvido por **Winne Ferreira**
